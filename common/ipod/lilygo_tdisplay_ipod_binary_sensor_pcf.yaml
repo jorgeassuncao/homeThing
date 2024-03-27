@@ -171,5 +171,6 @@ i2c:
 
 pcf8574:
   - id: 'pcf8574_hub'
-    address: 0x20
+    address: 0x38
+    # address: 0x20
     pcf8575: false
